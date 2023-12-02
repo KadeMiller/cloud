@@ -1,3 +1,4 @@
+<html>
 <script>
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
@@ -6,3 +7,5 @@
     
     window.location.href = sender;
 </script>
+</html>
+
